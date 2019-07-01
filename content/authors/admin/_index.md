@@ -15,13 +15,13 @@ education:
     year: 2008
 email: "andrewlmoskowitz@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics
+- Causal Inference
+- Machine Learning
 name: Andrew Moskowitz
 organizations:
 - name: Hulu
-  url: ""
+  url: "www.hulu.com"
 role: Manager, Advanced Analytics
 social:
 - icon: envelope
@@ -42,6 +42,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Andrew Moskowitz is a Manager of advanced analytic at Hulu. His interests reolve around the intersection of statisics and machine learning to solve complex business problems. Most recently, he has been working to apply causal inference methods to marketing problems in a subscription business. He leads the Advanced Analytics Subscriber Marketing team at Hulu *All views expressed on this site belong to Andrew and do not reflect the opinion or position of his employer.*
