@@ -37,5 +37,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""
+  align = "center"
 
+[[feature]]
+  icon = "exchange-alt"
+  icon_pack = "fas"
+  name = "Causal Inference"
+  description = ""
+  align = "center"
 +++
