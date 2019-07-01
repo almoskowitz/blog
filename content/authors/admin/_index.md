@@ -1,7 +1,8 @@
 ---
 authors:
 - admin
-bio: My interests include statsitics, machine learning, causal inference, and their applications. 
+bio: My interests include statsitics, machine learning, causal inference, and progamming. Occassionally, I like to try to build things that are useful or interesting.
+
 education:
   courses:
   - course: PhD in Quantitative Psychology
@@ -22,7 +23,7 @@ name: Andrew Moskowitz
 organizations:
 - name: Hulu
   url: "www.hulu.com"
-role: Manager, Advanced Analytics
+role: Advanced Analytics - Hulu
 social:
 - icon: envelope
   icon_pack: fas
