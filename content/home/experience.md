@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Manager, Advanced Analytics"
+  company = "Hulu"
+  company_url = "www.hulu.com"
+  location = "Los Angeles, California"
+  date_start = "2017-06-26"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Leading the Advanced Analytics team focused on Subscriber Marketing.
+
+  Responsibilities include
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Long term planning and vision for Advanced Analytics Subscriber Marketing
+  * A/B and Multivariate testing
+  * User Segmentation
+  * Evaluation and Strategy for Best in Class Customer Relationship strategy
+  * Modeling
+  * Using inferential statistics and machine learning to solve complex business problems
+  * Forecasting
   """
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+# [[experience]]
+#  title = "Professor"
+#  company = "University X"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2016-01-01"
+#  date_end = "2016-12-31"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
