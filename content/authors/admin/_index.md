@@ -37,6 +37,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/almoskowitz
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrew-moskowitz-ph-d-34548730/
 superuser: true
 user_groups:
 - Researchers
