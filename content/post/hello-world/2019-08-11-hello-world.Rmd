@@ -15,7 +15,7 @@ subtitle: 'A brief introduction and mission statement'
 summary: ''
 authors: []
 lastmod: '2019-08-11T20:56:08-07:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
