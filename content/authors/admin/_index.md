@@ -46,7 +46,7 @@ user_groups:
 - Visitors
 ---
 
-Andrew Moskowitz is a Manager of Advanced Analytics for Subscriber Marketing at Hulu. His interests reolve around the intersection of statisics and machine learning to solve complex business problems. Most recently, he has been working to apply causal inference methods to marketing problems in a subscription business. 
+Andrew Moskowitz is a Manager of Advanced Analytics for Subscriber Marketing at Hulu. His interests revolve around the intersection of statistics and machine learning to solve complex business problems. Most recently, he has been working to apply causal inference methods to marketing problems in a subscription business. 
  
  
  **_All views expressed on this site belong to Andrew and do not reflect the opinion or position of his employer._**
