@@ -18,12 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Manager, Analytics"
+  company = "Roku"
+  company_url = "www.roku.com"
+  location = "Los Angeles, California"
+  date_start = "2017-08-17"
+  date_end = ""
+  description = """Leading the Engagement Growth Marketing Analytics team.
+
+  Responsibilities include
+  coming soon...
+  
+  """
+
+
+[[experience]]
   title = "Advanced Analytics"
   company = "Hulu"
   company_url = "www.hulu.com"
   location = "Los Angeles, California"
   date_start = "2017-06-26"
-  date_end = ""
+  date_end = "2020-07-28"
   description = """Leading the Advanced Analytics team focused on Subscriber Marketing.
 
   Responsibilities include
