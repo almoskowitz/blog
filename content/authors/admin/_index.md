@@ -13,7 +13,7 @@ education:
     year: 2013
   - course: BA in Psychology/Criminology
     institution: University of Miami
-    year: 2008
+    year: 2010
 email: "andrewlmoskowitz@gmail.com"
 interests:
 - Statistics
